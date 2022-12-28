@@ -26,15 +26,9 @@ Authors:
 
 - Run the 'train.py' from 'utils' folder to train the model
 
-- Run 'evaluate.py' form 'utils' folder to generate loss and acc vs epoch graph.
 
 
-## Pretrained SolNET
-- Get the pretrained SolNet model from here: [Model](https://drive.google.com/drive/folders/1HNJ4fB28DLvzuSoj75qdDAQv9BLeavBs?usp=share_link)
 
-- keep the model in 'models' folder
-
-- Use tensorflows ```predict``` command to test in your own dataset.
 
 ## Cite us with the following bibtex:
 ```
