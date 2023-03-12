@@ -55,3 +55,10 @@ ISSN = {1996-1073},
 DOI = {10.3390/en16010155}
 }
 ```
+
+# File structure
+--The folder "dataset" will include the clean and dirty PV panel images to train a classification model from
+
+--The folder "models" will contain models trained by the algorithm
+
+--The folder "utils" contains scripts to train the classification model, where the file "train.py" is the mainfunction file and "model.py" is invoked by "model.py"
